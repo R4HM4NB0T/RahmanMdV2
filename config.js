@@ -2,8 +2,8 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : 𝙍𝙖𝙝𝙢𝙖𝙣𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡
+𝐖𝐚 : 081298108109
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -80,14 +80,14 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281298108109', 'Rahman', true],
-['6283149633165', 'Akun2', true]
+['6281298108109', 'RAHMAN', true],
+['6283149633165', 'RAHMAN', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6283847174069⁩'
 global.nomorown = '6281298108109'
-global.nomorown1 = '6281298108109'
+global.nomorown1 = '6285974169278'
 global.nomorown2 = '6283149633165'
 global.nomorwa = '0'
 
@@ -95,42 +95,42 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'ℝ𝕒𝕙𝕞𝕒𝕟𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝'
-global.namebot = '​ 𝕄𝕒𝕟𝕫𝔹𝕠𝕥-𝕍𝟙 '
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ℝ𝕒𝕙𝕞𝕒𝕟𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝'
+global.author = '𝐑𝐚𝐡𝐦𝐚𝐧𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐥'
+global.namebot = '​ 𝙈𝙖𝙣𝘽𝙤𝙩 𝙑1'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐑𝐚𝐡𝐦𝐚𝐧𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐥'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝕄𝕒𝕟𝕫𝔹𝕠𝕥-𝕍𝟙 '
+global.wm = '𝙍𝙖𝙝𝙢𝙖𝙣𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 '
 global.watermark = wm
-global.wm2 = '𝕄𝕒𝕟𝕫𝔹𝕠𝕥-𝕍𝟙 '
+global.wm2 = '𝐑𝐚𝐡𝐦𝐚𝐧𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐥 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `ℝ𝕒𝕙𝕞𝕒𝕟𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝`
-global.stickpack = 'ℝ𝕒𝕙𝕞𝕒𝕟𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝'
-global.stickauth = `© Rahman MD`
+global.titlebot = `𝙈𝙖𝙣𝘽𝙤𝙩 𝙑1`
+global.stickpack = '𝐌𝐚𝐧𝐁𝐨𝐭 𝐕𝟏'
+global.stickauth = `© 𝙍𝙖𝙝𝙢𝙖𝙣𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Rahman'
-global.nameown2 = 'Akun2'
+global.nameown1= 'RAHMAN'
+global.nameown2 = 'RAHMAN'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://lynk.id/rahmanknght'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/rhmnknght'
 global.sgh = 'https://github.com/R4HM4NB0T' //github
-global.sgc = '-' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/IeFZz6nGqvOAGEGKo9FBgm' //group whatsapp
 global.sdc = '-' //discord
-global.snh = '-'
+global.snh = 'https://youtube.com/channel/UCU9GMPy1uWALg7wS8Xfl21Q'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '0812 9810 8109'
 global.povo = '-'
-global.pgopay = '-'
+global.pgopay = '_'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0812 9810 8109'
-global.ppulsa2 = '0812 9810 8109'
+global.ppulsa2 = '6285974169278'
 global.psaweria = '-'
 
 
@@ -345,7 +345,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/rhmnknght"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '0812 9810 8109'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
